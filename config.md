@@ -1,6 +1,6 @@
 
 
-##wsl.conf
+#wsl.conf
 
 [automount]
 enabled = true
